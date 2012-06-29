@@ -37,8 +37,8 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="xunit">
-      <HintPath>..\..\..\..\external-dependencies\xunit-1.9\xunit.dll</HintPath>
+    <Reference Include="xunit, Version=1.9.0.1566, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
+      <HintPath>..\..\external-dependencies\xunit-1.9\xunit.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
